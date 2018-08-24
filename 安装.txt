@@ -1,0 +1,4 @@
+D:\Anaconda\Scripts
+https://github.com/gornes/Human_Activity_Recognition/blob/master/Code/ipynb/HAR_moe_svc_rfc_abc_all_ver3.ipynb
+http://yelp.github.io/MOE/install.html#install-from-source
+https://github.com/Yelp/MOE
